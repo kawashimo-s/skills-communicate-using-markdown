@@ -7,3 +7,6 @@ $ curl "http://localhost:8080/"
 ```c
 printf("hello, world!\n");
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
